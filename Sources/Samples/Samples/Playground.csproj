@@ -14,4 +14,10 @@
     <ProjectReference Include="..\..\AngouriMath\AngouriMath.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MyExpression.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\MyExpression\MyExpression.Core\bin\Debug\netstandard2.1\MyExpression.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
